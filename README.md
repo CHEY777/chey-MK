@@ -1,6 +1,7 @@
 <p align="center">
    <a href="https://github.com/FantoX001">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="250">
+    <a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
+" alt="chitoge" border="0"></a>
      
 </p>
 <h1 align="center"> Miku Nakano 
