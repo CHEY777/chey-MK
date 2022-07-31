@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/FantoX001">
+   <a href="https://github.com/Chey-san">
     <a href="https://github.com/Chey-san/"><img src="https://user-images.githubusercontent.com/97988840/156468495-58f662e6-959a-4121-87f7-8ea9cba47f03.gif"
 " alt="chitoge" border="0"></a>
      
@@ -7,23 +7,23 @@
 <h1 align="center"> Miku Nakano 
 </h1>
 <p align="center"> 
-  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Fantox to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa Senpai, I am "Miku Nakano" a WhatsApp bot made by Chey-san to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX001/Miku-MD?label=Fork&style=social">
+  <a href="https://github.com/Chey-san/mnnsnsns/fork">
+    <img src="https://img.shields.io/github/forks/Chey-san/Miku-MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX001/Miku-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX001/Miku-MD?style=social">
+  <a href="https://github.com/Chey-san/Miku-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Chey-san/Miku-MD?style=social">
   </a>
 
 <p align="center">
-  <a href="https://github.com/FantoX001/Miku-MD">
+  <a href="https://github.com/Chey-san/Miku-MD">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
     
     
-<a href="https://github.com/FantoX001">
+<a href="https://github.com/Chey-san">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
 </br>
@@ -102,7 +102,7 @@ npm start
 - Well, it's the most asked question !
 - And the answer is `"Permission is hereby granted for 100% modification/recode."`
 - And this project comes under [`MIT`](https://github.com/FantoX001/Miku-MD/blob/main/LICENSE.md) lincense.
-- Please at least [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to show some appreciation.
+- Please at least [`Follow`](https://github.com/Chey-san/#follow) me on GitHub to show some appreciation.
    
    
 ## Reminder:
@@ -118,7 +118,7 @@ npm start
 
 
 ## Help:
-- [`Follow`](https://github.com/FantoX001/#follow) me on GitHub to make me feel motivated.
+- [`Follow`](https://github.com/Chey-san/#follow) me on GitHub to make me feel motivated.
 - Give my project a ⭐ if you liked it.
 
      
@@ -127,3 +127,4 @@ npm start
 -   `Adiwajshing` sir for [Baileys](https://github.com/adiwajshing/baileys).
 -   `Arus~Bots` team for [Mizuhara](https://github.com/Arus-Bots/Mizuhara).
 -   `Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2).
+-   `FantoX001` bruh for [Miku-MD](https://github.com/FantoX001/Miku-MD).
